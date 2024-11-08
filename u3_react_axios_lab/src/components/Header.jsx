@@ -3,7 +3,9 @@ import Nav from "./Nav";
 const Header = (props) => {
   return (
     <>
-      <Nav />
+      <Header>
+        <h1>Starwars</h1>
+      </Header>
     </>
   );
 };

@@ -1,8 +1,8 @@
 const Home = (props) => {
   return (
-    <>
-      <h1>Boilerplate</h1>
-    </>
+    <div className="home">
+      <h1>Welcome to the Star Wars App! Pew Pew.</h1>
+    </div>
   );
 };
 
